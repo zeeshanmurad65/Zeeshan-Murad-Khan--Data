@@ -29,4 +29,5 @@ I'm an aspiring Data Scientist from Pakistan with a passion for turning raw data
 ---
 #
 ### 📊 My GitHub Stats
-[![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-Murad-Khan--Data&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeeshanmurad65&...)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmurad65&...)]
