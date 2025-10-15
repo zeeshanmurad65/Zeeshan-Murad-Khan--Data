@@ -23,8 +23,9 @@ I'm an aspiring Data Scientist from Pakistan with a passion for turning raw data
 ---
 
 ### 📫 Get in Touch
-<!-- - 🌐 **Portfolio:** [https://zeeshanmurad65.netlify.app/] 
-- 💼 **LinkedIn:** [linkedin.com/in/Zeeshan Murad](https://www.linkedin.com/in/zeeshan-murad-351874359/)
+* **Email:** [muradzeeshan988@gmail.com](mailto:muradzeeshan988@gmail.com)
+* **LinkedIn:** [linkedin.com/in/zeeshan-murad-351874359](https://www.linkedin.com/in/zeeshan-murad-351874359/)
+* **Portfolio Website:** [zeeshanmurad65.netlify.app](https://zeeshanmurad65.netlify.app)
 
 ---
 #
